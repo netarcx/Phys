@@ -14,3 +14,5 @@ def FnCoulombsLaw(chargeOne, chargeTwo, radiusR):
 
     # force = k*q1*q2/r^2
 
+def ElectricFlux(vecElectricField , vecSurfaceArea):
+    absvecSurfaceArea = np.abs(vecSurfaceArea3)
